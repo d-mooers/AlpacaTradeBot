@@ -1,0 +1,5 @@
+#ignore apikeys
+api_keys.json
+#ignore packagelock and node modules
+package-lock.json
+/node_modules
