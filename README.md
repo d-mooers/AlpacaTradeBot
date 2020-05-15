@@ -1,4 +1,4 @@
-#A basic trading bot using alpaca API
+# A basic trading bot using alpaca API
 
 * Future Plans:
     * Twitter sentiment analysis
